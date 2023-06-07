@@ -1,0 +1,9 @@
+- Désintallé toute version plus ancienne ou gratuite que vous avez puis vérifié que vous n'avez rien ici:
+
+C:\Users\NOMDUPC\Documents\VirtualDJ
+
+- Supprimé tout au complet.
+
+- Maintenant installé juste le .msi. Ne pas faire d'update.
+
+* Ne pas séparé le .msi et le .cab.
